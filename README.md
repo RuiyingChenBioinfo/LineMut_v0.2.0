@@ -17,7 +17,7 @@
 To use LineMut, first clone this code repository:  
 
 ``` bash 
-git clone https://github.com/RuiyingChenBioinfo/LineMut_v0.1.0.git
+git clone https://github.com/RuiyingChenBioinfo/LineMut.git
 ```
 
 Create a conda environment that contains the dependencies required to run LineMut.  
