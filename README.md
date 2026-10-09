@@ -9,10 +9,6 @@
 
 ****
 
-<div align="center">
-    <img src='./assets/Schematic_of_LineMut_pipeline_for_GitHub.png' width=1000> 
-</div>
-
 ## Installation
 To use LineMut (v0.2.0), first clone this repository:  
 
@@ -100,7 +96,12 @@ Options:
 
 ### LineMut Build
 
-LineMut Build reconstructs lineage relationships using built-in functions. Please refer to the [linemut-tutorial](https://ruiyingchenbioinfo.github.io/LineMut_tutorialv0.1.0/) for detailed instructions on LineMut Build.
+LineMut Build provides experimental functions for exploring potential relationships between CMBs.
+
+> [!CAUTION]
+> **Experimental feature**
+>
+> LineMut Build is still under development and has not been fully validated. Its results should not be interpreted as definitive evidence of cell lineage or clonal ancestry. This module is currently not recommended for general use. Users should exercise caution and independently validate any findings before drawing biological conclusions.
 
 ## Contact
 
